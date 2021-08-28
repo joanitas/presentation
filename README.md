@@ -1,3 +1,4 @@
-# presentation
+# ZiO INCOPERATION
 
-This repo was the first design sent for me to work on
+My very first work, based on a company's page, 
+given by Chizi.
